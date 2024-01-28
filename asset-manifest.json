@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emi_calculator/static/css/main.f1a00c1b.css",
+    "main.js": "/emi_calculator/static/js/main.e27b3b61.js",
+    "static/media/bootstrap-icons.woff?": "/emi_calculator/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/emi_calculator/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/emi_calculator/index.html",
+    "main.f1a00c1b.css.map": "/emi_calculator/static/css/main.f1a00c1b.css.map",
+    "main.e27b3b61.js.map": "/emi_calculator/static/js/main.e27b3b61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1a00c1b.css",
+    "static/js/main.e27b3b61.js"
+  ]
+}
